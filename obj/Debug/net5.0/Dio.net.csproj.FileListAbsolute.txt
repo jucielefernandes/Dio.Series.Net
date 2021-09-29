@@ -1,0 +1,16 @@
+/home/juciele/Documentos/Dio.net/bin/Debug/net5.0/Dio.net
+/home/juciele/Documentos/Dio.net/bin/Debug/net5.0/Dio.net.deps.json
+/home/juciele/Documentos/Dio.net/bin/Debug/net5.0/Dio.net.runtimeconfig.json
+/home/juciele/Documentos/Dio.net/bin/Debug/net5.0/Dio.net.runtimeconfig.dev.json
+/home/juciele/Documentos/Dio.net/bin/Debug/net5.0/Dio.net.dll
+/home/juciele/Documentos/Dio.net/bin/Debug/net5.0/ref/Dio.net.dll
+/home/juciele/Documentos/Dio.net/bin/Debug/net5.0/Dio.net.pdb
+/home/juciele/Documentos/Dio.net/obj/Debug/net5.0/Dio.net.csproj.AssemblyReference.cache
+/home/juciele/Documentos/Dio.net/obj/Debug/net5.0/Dio.net.GeneratedMSBuildEditorConfig.editorconfig
+/home/juciele/Documentos/Dio.net/obj/Debug/net5.0/Dio.net.AssemblyInfoInputs.cache
+/home/juciele/Documentos/Dio.net/obj/Debug/net5.0/Dio.net.AssemblyInfo.cs
+/home/juciele/Documentos/Dio.net/obj/Debug/net5.0/Dio.net.csproj.CoreCompileInputs.cache
+/home/juciele/Documentos/Dio.net/obj/Debug/net5.0/Dio.net.dll
+/home/juciele/Documentos/Dio.net/obj/Debug/net5.0/ref/Dio.net.dll
+/home/juciele/Documentos/Dio.net/obj/Debug/net5.0/Dio.net.pdb
+/home/juciele/Documentos/Dio.net/obj/Debug/net5.0/Dio.net.genruntimeconfig.cache
